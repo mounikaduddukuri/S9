@@ -1,8 +1,8 @@
 ## S9s
 1. In this assignment we are implementing gradCAM.
 2. And Image augmentations using albumentations.
-- Albumentations wrote  in [this file](https://github.com/mounikaduddukuri/S9/blob/master/myLibrary/eva4albumentations.py)
-- Implemented gradCAM code in [this file](https://github.com/mounikaduddukuri/S9/blob/master/myLibrary/eva4gradcam.py)
+- Albumentations wrote [here](https://github.com/mounikaduddukuri/S9/blob/master/myLibrary/eva4albumentations.py)
+- Implemented gradCAM code [here](https://github.com/mounikaduddukuri/S9/blob/master/myLibrary/eva4gradcam.py)
 - For remaining parts including data loading,model training etc., are done with previous file
 ### [Code1](https://github.com/Lakshman511/EVA4/blob/master/s9/eva4_s9_albumentations_grad_cam.ipynb)
 1.In this we use data augmentations: rotate,HorizontalFlip,Normalize.
